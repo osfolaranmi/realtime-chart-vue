@@ -1,6 +1,6 @@
-# realtime-chart-vue
+# Realtime-Chart-Vue
 
-> A Realtime dashboard chart with Vue and Pusher
+> A Realtime Income and Expense chart with Vue and Pusher
 
 
 ## How to run this app
